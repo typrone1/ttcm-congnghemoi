@@ -1,0 +1,18 @@
+{
+  "clients" : {
+    "-Kdl_wRRkn7nJxgz4B54" : {
+      "firstName" : "John",
+      "lastName" : "Doe",
+      "email" : "jdoe@gmail.com",
+      "phone" : "555-555-5555",
+      "balance" : "100.00"    
+    },
+    "-KdleehAQm0HgVFYdkUo" : {
+      "firstName" : "Steve",
+      "lastName" : "Smith",
+      "email" : "stevesmith@gmail.com",
+      "phone" : "444-444-4444",
+      "balance" : "350.00"    
+    }
+  }
+}
